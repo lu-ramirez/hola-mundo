@@ -1,7 +1,7 @@
 ![This is an image](https://static.vecteezy.com/system/resources/previews/000/227/880/non_2x/female-developer-vector.jpg)
 
 # Hola-mundo #
-## Mi primer repositorio de prueba##
+## Mi primer repositorio de prueba
 Este es mi archivo de prueba con lenguaje Markdown. 
 
 ### Citas ###
