@@ -10,13 +10,11 @@ Este es mi archivo de prueba con lenguaje Markdown.
 + Elemento de lista 2
 
 ### Links o Enlaces ###
-La frase de Mónica Rikic la tomé de [AllWomen] (link).
-Puedes consultar más frases [Aquí] (link).
-
-(link): https://www.allwomen.tech/communities-women-tech-barcelona/7-poderosas-frases-para-las-mujeres-en-tecnologia/
+La frase de Mónica Rikic la tomé de [AllWomen](https://www.allwomen.tech/communities-women-tech-barcelona/7-poderosas-frases-para-las-mujeres-en-tecnologia/).
+Puedes consultar más frases [Aquí](https://www.allwomen.tech/communities-women-tech-barcelona/7-poderosas-frases-para-las-mujeres-en-tecnologia/).
 
 ### Imágenes ###
-! (https://static.vecteezy.com/system/resources/previews/000/227/880/non_2x/female-developer-vector.jpg)
+! [image](https://static.vecteezy.com/system/resources/previews/000/227/880/non_2x/female-developer-vector.jpg)
 
 **Autor:** *Lucero Ramírez Melo*
 
