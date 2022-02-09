@@ -14,7 +14,7 @@ La frase de Mónica Rikic la tomé de [AllWomen](https://www.allwomen.tech/commu
 Puedes consultar más frases [Aquí](https://www.allwomen.tech/communities-women-tech-barcelona/7-poderosas-frases-para-las-mujeres-en-tecnologia/).
 
 ### Imágenes ###
-! ("C:\Users\Lenovo\Downloads\female-developer-vector (1).png")
+! [image info](C:\Users\Lenovo\Downloads\female-developer-vector (1).png)
 
 **Autor:** *Lucero Ramírez Melo*
 
